@@ -21,7 +21,7 @@
 9. [胡子](https://huzizi.com/)
 
 # Frontend Develop
-1. [Frontend Developer](https://roadmap.sh/frontend)
+1. [Frontend Developer roadmap](https://roadmap.sh/frontend)
 2. [React 技术揭秘](https://react.iamkasong.com/)
 3. [字节前端如何基于 AST 做国际化重构](https://mp.weixin.qq.com/s/NC700iM9vfEBWNg35LZPJw)
 

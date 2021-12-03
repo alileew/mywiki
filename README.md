@@ -16,7 +16,9 @@
 4. [Randy's](https://lutaonan.com/)
 5. [唐巧](https://blog.devtang.com/)
 6. [构建我的被动收入](https://www.bmpi.dev/)
-7. 
+7. [bang](https://blog.cnbang.net/archives/)
+8. [罗磊](https://luolei.org)
+9. [胡子](https://huzizi.com/)
 
 # articles
 1. [为什么整个互联网行业都缺前端工程师？](https://zhuanlan.zhihu.com/p/20598089)
@@ -26,7 +28,6 @@
 
 # typescript
 1. [ts包依赖](https://www.typescriptlang.org/dt/search?search=)
-
 
 # websites
 1. [鸠摩搜索](https://www.jiumodiary.com/)

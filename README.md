@@ -40,17 +40,15 @@
 # TypeScript
 1. [ts包依赖](https://www.typescriptlang.org/dt/search?search=)
 
-# Websites
+# Tools
 1. [鸠摩搜索](https://www.jiumodiary.com/)
 2. [稿定设计](https://www.gaoding.com/)
 3. [写文章配图](https://undraw.co/illustrations)
 4. [代码片段carbon](https://carbon.now.sh/)
 5. [设计图](https://www.chuangkit.com/designtools/designindex)
-
-# Tools
-1. [pdf转word工具](https://xpdf.net/)
-2. [图标字体库fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
-3. [徽章shields](https://shields.io/)
-4. [PDF-Tools](https://smallpdf.com/)
-5. [短链接生成器](https://xiaomark.com/)
-6. [在线MP3语音剪切/拼接](https://www.bearaudiotool.com/zh/)
+6. [pdf转word工具](https://xpdf.net/)
+7. [图标字体库fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
+8. [徽章shields](https://shields.io/)
+9. [PDF-Tools](https://smallpdf.com/)
+10. [短链接生成器](https://xiaomark.com/)
+11. [在线MP3语音剪切/拼接](https://www.bearaudiotool.com/zh/)

@@ -8,16 +8,16 @@
 3. [阮一峰 ES6 入门教程](https://es6.ruanyifeng.com/)
 4. [精通 JavaScript 模块](https://github.com/mjavascript/mastering-modular-javascript)
 5. [GraphQL 之路](https://www.robinwieruch.de/the-road-to-graphql-book/)
+6. [react/node article](https://github.com/nswbmw/node-in-debugging)
 
 # Blogs
 1. [Hacker News](https://news.ycombinator.com/)
-2. [react/node article](https://github.com/nswbmw/node-in-debugging)
-3. [冴羽](https://github.com/mqyqingfeng/Blog)
-4. [Randy's](https://lutaonan.com/)
-5. [唐巧](https://blog.devtang.com/)
-6. [构建我的被动收入](https://www.bmpi.dev/)
-7. [bang](https://blog.cnbang.net/archives/)
-8. [罗磊](https://luolei.org)
+2. [冴羽](https://github.com/mqyqingfeng/Blog)
+3. [Randy's](https://lutaonan.com/)
+4. [唐巧](https://blog.devtang.com/)
+5. [构建我的被动收入](https://www.bmpi.dev/)
+6. [bang](https://blog.cnbang.net/archives/)
+7. [罗磊](https://luolei.org)
 9. [胡子](https://huzizi.com/)
 
 # Frontend Develop

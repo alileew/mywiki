@@ -52,3 +52,4 @@
 9. [PDF-Tools](https://smallpdf.com/)
 10. [短链接生成器](https://xiaomark.com/)
 11. [在线MP3语音剪切/拼接](https://www.bearaudiotool.com/zh/)
+12. [查询部署的网站是否安全](https://myssl.com/)

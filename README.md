@@ -35,10 +35,11 @@
 1. [为什么整个互联网行业都缺前端工程师？](https://zhuanlan.zhihu.com/p/20598089)
 2. [程序员如何艺术的提升技术、影响力&赚钱](https://www.phodal.com/blog/how-to-make-money-and-improve-impact/)
 3. [程序员怎样才能写出一篇好的博客或者技术文章](https://www.phodal.com/blog/programmer-how-to-write-a-good-article/)
-4. [为什么无法坚持写博客](https://lutaonan.com/blog/reason-why-your-blog-is-not-alive/)
-5. [一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
-6. [我如何零基础转行成为一个自信的前](https://zhuanlan.zhihu.com/p/46401520)
-7. []()
+4. [一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
+5. [我如何零基础转行成为一个自信的前](https://zhuanlan.zhihu.com/p/46401520)
+6. [tips-to-learn-react-redux](https://www.robinwieruch.de/tips-to-learn-react-redux/)
+7. [专注的 React 技术栈成长路线](https://github.com/linesh-simplicity/linesh-simplicity.github.io/issues/184)
+8. [React 16 加载性能优化指南](https://zhuanlan.zhihu.com/p/37148975)
 
 # TypeScript
 1. [查询ts包依赖](https://www.typescriptlang.org/dt/search?search=)

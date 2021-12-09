@@ -19,6 +19,7 @@
 6. [bang](https://blog.cnbang.net/archives/)
 7. [罗磊](https://luolei.org)
 9. [胡子](https://huzizi.com/)
+10. [bang's](https://blog.cnbang.net/)
 
 # Frontend Develop
 1. [Frontend Developer roadmap](https://roadmap.sh/frontend)
@@ -52,8 +53,10 @@
 5. [设计图](https://www.chuangkit.com/designtools/designindex)
 6. [pdf转word工具](https://xpdf.net/)
 7. [图标字体库fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
-8. [徽章shields](https://shields.io/)
-9. [PDF-Tools](https://smallpdf.com/)
-10. [短链接生成器](https://xiaomark.com/)
-11. [在线MP3语音剪切/拼接](https://www.bearaudiotool.com/zh/)
-12. [查询部署的网站是否安全](https://myssl.com/)
+9. [徽章shields](https://shields.io/)
+10. [PDF-Tools](https://smallpdf.com/)
+11. [短链接生成器](https://xiaomark.com/)
+12. [在线MP3语音剪切/拼接](https://www.bearaudiotool.com/zh/)
+13. [查询部署的网站是否安全](https://myssl.com/)
+
+

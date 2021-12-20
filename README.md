@@ -45,6 +45,9 @@
 # TypeScript
 1. [查询ts包依赖](https://www.typescriptlang.org/dt/search?search=)
 
+# Great Websites
+1. [正则交互式学习网站 Regex-Learn-逐步从零基础到高阶](https://regexlearn.com/zh-cn)
+
 # Tools
 1. [鸠摩搜索](https://www.jiumodiary.com/)
 2. [稿定设计](https://www.gaoding.com/)

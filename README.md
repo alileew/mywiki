@@ -65,5 +65,6 @@
 11. [短链接生成器](https://xiaomark.com/)
 12. [在线MP3语音剪切/拼接](https://www.bearaudiotool.com/zh/)
 13. [查询部署的网站是否安全](https://myssl.com/)
+14. [微信聊天记录导出](http://wxbackup.imxfd.com/)
 
 

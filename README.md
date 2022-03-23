@@ -41,7 +41,7 @@
 2. [程序员如何艺术的提升技术、影响力&赚钱](https://www.phodal.com/blog/how-to-make-money-and-improve-impact/)
 3. [程序员怎样才能写出一篇好的博客或者技术文章](https://www.phodal.com/blog/programmer-how-to-write-a-good-article/)
 4. [一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
-5. [我如何零基础转行成为一个自信的前](https://zhuanlan.zhihu.com/p/46401520)
+5. [我如何零基础转行成为一个自信的前端](https://zhuanlan.zhihu.com/p/46401520)
 6. [tips-to-learn-react-redux](https://www.robinwieruch.de/tips-to-learn-react-redux/)
 7. [专注的 React 技术栈成长路线](https://github.com/linesh-simplicity/linesh-simplicity.github.io/issues/184)
 8. [React 16 加载性能优化指南](https://zhuanlan.zhihu.com/p/37148975)

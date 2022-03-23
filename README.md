@@ -11,7 +11,7 @@
 6. [react/node article](https://github.com/nswbmw/node-in-debugging)
 
 # 原理篇
-1. [为什么这么设计系列文章-TCP/IP、HTTP、Mysql、...](https://draveness.me/whys-the-design/)
+1. [为什么这么设计系列文章-TCP/IP、HTTP、Mysql、Go、...](https://draveness.me/whys-the-design/)
 2. [React 技术原理揭秘-卡頌](https://react.iamkasong.com/)
 
 # Frontend Develop

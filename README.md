@@ -12,11 +12,11 @@
 
 # 原理篇
 1. [为什么这么设计系列文章-TCP/IP、HTTP、Mysql、...](https://draveness.me/whys-the-design/)
+2. [React 技术原理揭秘-卡頌](https://react.iamkasong.com/)
 
 # Frontend Develop
 1. [Frontend Developer roadmap](https://roadmap.sh/frontend)
-2. [React 技术揭秘](https://react.iamkasong.com/)
-3. [字节前端如何基于 AST 做国际化重构](https://mp.weixin.qq.com/s/NC700iM9vfEBWNg35LZPJw)
+2. [字节前端如何基于 AST 做国际化重构](https://mp.weixin.qq.com/s/NC700iM9vfEBWNg35LZPJw)
 
 # Project Practice
 1. [Node.js 在企业中的应用实践集锦](https://mp.weixin.qq.com/s/kU4wmkFfYxEGDUrnUmH6fA)

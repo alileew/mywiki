@@ -10,17 +10,8 @@
 5. [GraphQL 之路](https://www.robinwieruch.de/the-road-to-graphql-book/)
 6. [react/node article](https://github.com/nswbmw/node-in-debugging)
 
-# Blogs
-1. [Alileew's](https://alileew.cn/)
-1. [Hacker News](https://news.ycombinator.com/)
-2. [冴羽](https://github.com/mqyqingfeng/Blog)
-3. [Randy's](https://lutaonan.com/)
-4. [唐巧](https://blog.devtang.com/)
-5. [构建我的被动收入](https://www.bmpi.dev/)
-6. [bang](https://blog.cnbang.net/archives/)
-7. [罗磊](https://luolei.org)
-9. [胡子](https://huzizi.com/)
-10. [bang's](https://blog.cnbang.net/)
+# 原理篇
+1. [为什么这么设计系列文章](https://draveness.me/whys-the-design/)
 
 # Frontend Develop
 1. [Frontend Developer roadmap](https://roadmap.sh/frontend)
@@ -32,6 +23,18 @@
 2. [“云”端的语雀：用 JavaScript 全栈打造商业级应用](https://mp.weixin.qq.com/s/lYniKmwLpz5DBtTt9c5ctg)
 3. [Next.js 应用开发实践](https://nextjs-in-action-cn.taonan.lu/)
 4. [蚂蚁前端研发最佳实践](https://github.com/sorrycc/blog/issues/90)
+
+# Blogs
+1. [Alileew's](https://alileew.cn/)
+1. [Hacker News](https://news.ycombinator.com/)
+2. [冴羽](https://github.com/mqyqingfeng/Blog)
+3. [Randy's](https://lutaonan.com/)
+4. [唐巧](https://blog.devtang.com/)
+5. [构建我的被动收入](https://www.bmpi.dev/)
+6. [bang](https://blog.cnbang.net/archives/)
+7. [罗磊](https://luolei.org)
+9. [胡子](https://huzizi.com/)
+10. [bang's](https://blog.cnbang.net/)
 
 # Articles
 1. [为什么整个互联网行业都缺前端工程师？](https://zhuanlan.zhihu.com/p/20598089)

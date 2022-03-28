@@ -13,9 +13,14 @@
 # 原理篇
 1. [为什么这么设计系列文章-TCP/IP、HTTP、Mysql、Go、...](https://draveness.me/whys-the-design/)
 2. [React 技术原理揭秘-卡頌](https://react.iamkasong.com/)
+3. [图解React系列](https://7kms.github.io/react-illustration-series/main/macro-structure)
+3. [浏览器工作原理与实践](https://blog.poetries.top/browser-working-principle/)
 
 # Frontend Develop
 1. [字节前端如何基于 AST 做国际化重构](https://mp.weixin.qq.com/s/NC700iM9vfEBWNg35LZPJw)
+
+# 前端知识点自检篇
+1. [一名【合格】前端工程师的自检清单](https://juejin.cn/post/6844903830887366670)
 
 # Project Practice
 1. [Node.js 在企业中的应用实践集锦](https://mp.weixin.qq.com/s/kU4wmkFfYxEGDUrnUmH6fA)
@@ -26,18 +31,6 @@
 # 前端图谱
 1. [前端知识图谱](https://f2e.tech/)
 2. [Frontend Developer roadmap](https://roadmap.sh/frontend)
-
-# Blogs
-1. [Alileew's](https://alileew.cn/)
-1. [Hacker News](https://news.ycombinator.com/)
-2. [冴羽](https://github.com/mqyqingfeng/Blog)
-3. [Randy's](https://lutaonan.com/)
-4. [唐巧](https://blog.devtang.com/)
-5. [构建我的被动收入](https://www.bmpi.dev/)
-6. [bang](https://blog.cnbang.net/archives/)
-7. [罗磊](https://luolei.org)
-9. [胡子](https://huzizi.com/)
-10. [bang's](https://blog.cnbang.net/)
 
 # Articles
 1. [为什么整个互联网行业都缺前端工程师？](https://zhuanlan.zhihu.com/p/20598089)
@@ -57,6 +50,18 @@
 
 # Great Websites
 1. [正则交互式学习网站 Regex-Learn-逐步从零基础到高阶](https://regexlearn.com/zh-cn)
+
+# Blogs
+1. [Alileew's](https://alileew.cn/)
+1. [Hacker News](https://news.ycombinator.com/)
+2. [冴羽](https://github.com/mqyqingfeng/Blog)
+3. [Randy's](https://lutaonan.com/)
+4. [唐巧](https://blog.devtang.com/)
+5. [构建我的被动收入](https://www.bmpi.dev/)
+6. [bang](https://blog.cnbang.net/archives/)
+7. [罗磊](https://luolei.org)
+9. [胡子](https://huzizi.com/)
+10. [bang's](https://blog.cnbang.net/)
 
 # Tools
 1. [鸠摩搜索](https://www.jiumodiary.com/)

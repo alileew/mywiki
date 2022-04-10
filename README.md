@@ -63,6 +63,7 @@
 9. [胡子](https://huzizi.com/)
 10. [bang's](https://blog.cnbang.net/)
 11. [程序员的喵](https://catcoding.me/)
+12. [draveness面向信仰编程](https://draveness.me/)
 
 # Tools
 1. [鸠摩搜索](https://www.jiumodiary.com/)

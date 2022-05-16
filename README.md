@@ -28,6 +28,10 @@
 3. [Next.js 应用开发实践](https://nextjs-in-action-cn.taonan.lu/)
 4. [蚂蚁前端研发最佳实践](https://github.com/sorrycc/blog/issues/90)
 
+# 网站性能测试
+1. [Webpagetest](https://webpagetest.org/easy)
+2. [Measure page quality](https://web.dev/measure/)
+
 # 前端图谱
 1. [前端知识图谱](https://f2e.tech/)
 2. [Frontend Developer roadmap](https://roadmap.sh/frontend)

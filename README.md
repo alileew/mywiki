@@ -70,6 +70,7 @@
 12. [draveness面向信仰编程](https://draveness.me/)
 13. [Linus](https://thesephist.com/)
 14. [图拉鼎](https://imtx.me/)
+15. [wenzi](https://www.xiabingbao.com/)
 
 # Tools
 1. [鸠摩搜索](https://www.jiumodiary.com/)
